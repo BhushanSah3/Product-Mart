@@ -11,5 +11,5 @@ data class Product(
     val stock: Int,
     val thumbnail: String,
     val images: List<String>,
-    val brand: String  // added brand here
+    val brand: String
 )
