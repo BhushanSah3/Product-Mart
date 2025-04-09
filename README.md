@@ -1,6 +1,4 @@
----
 
-```markdown
 # 🛒 Product Mart
 
 **Product Mart** is a modern e-commerce prototype app built using **Kotlin** and **Jetpack Compose** with a clean MVVM architecture. It fetches product data from the [DummyJSON API](https://dummyjson.com/) and provides rich UI features such as:
@@ -48,19 +46,14 @@ You can download the latest APK from the link below:
 ---
 ## 📸 Screenshots
 
-### 🏠 Home Screen
 ![Home](images/img1%20(1).jpg)
 
-### 🔍 Search and Filter
 ![Search](images/img1%20(2).jpg)
 
-### 🛍️ Category Filter & Sorting
 ![Category & Sort](images/img1%20(3).jpg)
 
-### 📃 Product Detail
 ![Product Detail](images/img1%20(4).jpg)
 
-### 🧭 Navigation & Interaction
 ![Navigation](images/img1%20(5).jpg)
 
 
